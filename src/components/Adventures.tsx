@@ -4,7 +4,7 @@ import { Mountain, Compass, Users } from 'lucide-react';
 const adventures = [
   {
     title: "Pendakian Gunung",
-    image: "AkarAlam/rinjani.jpg",
+    image: "https://i.postimg.cc/c4rZcXmB/rinjani.jpg",
     description: "Tantang diri Anda dengan perjalanan gunung bersama guide kami",
     difficulty: "Sedang",
     duration: "6-8 jam"
@@ -18,7 +18,7 @@ const adventures = [
   },
   {
     title: "Petualangan Puncak",
-    image: "AkarAlam/ijen.jpg",
+    image: "https://i.postimg.cc/D03scSVq/ijen.jpg",
     description: "Raih ketinggian baru dengan pengalaman puncak bersama guide kami",
     difficulty: "Hard",
     duration: "10-12 jam"
