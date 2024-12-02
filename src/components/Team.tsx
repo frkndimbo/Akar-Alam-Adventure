@@ -6,35 +6,35 @@ const teamMembers = [
     name: "Muhammad Muslim",
     role: "Owner",
     instagram: "m.muslliim",
-    image: "AkarAlam/Muslim.jpg",
+    image: "https://i.postimg.cc/m2WHH1Rj/Muslim.jpg",
     description: "Pendiri Akar Alam Adventure dengan pengalaman lebih dari 10 tahun di dunia pendakian."
   },
   {
     name: "Faiz Ahmad Fauzan",
     role: "Manager",
     instagram: "littledimboo",
-    image: "AkarAlam/Faiz.jpg",
+    image: "https://i.postimg.cc/kMbSGvrD/Faiz.jpg",
     description: "Bertanggung jawab atas operasional dan pengembangan layanan pendakian."
   },
   {
     name: "Tri Jaka Satria",
     role: "Konsultan",
     instagram: "tri_js16",
-    image: "AkarAlam/Jaka.jpg",
+    image: "https://i.postimg.cc/NM054QVN/Jaka.jpg",
     description: "Ahli dalam perencanaan rute dan keselamatan pendakian."
   },
   {
     name: "Mahmud Isti Panggalih",
     role: "Porter",
     instagram: "mahmudpanggalih",
-    image: "AkarAlam/mahmud.jpg",
+    image: "https://i.postimg.cc/gky6qc2W/mahmud.jpg",
     description: "Porter berpengalaman dengan pengetahuan mendalam tentang medan pendakian."
   },
   {
     name: "Danis Wara Whardana",
     role: "Guide",
     instagram: "danissswara",
-    image: "AkarAlam/Danis.jpg",
+    image: "https://i.postimg.cc/3xK0LMkD/Danis.jpg",
     description: "Guide profesional dengan sertifikasi nasional dan internasional."
   }
 ];
