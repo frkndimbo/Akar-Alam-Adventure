@@ -5,7 +5,7 @@ const testimonials = [
   {
     name: "Raditya Dika",
     instagram: "raditya_dika",
-    image: "https://i.postimg.cc/XJpyWwWK/radityadika.jpg",
+    image: "AkarAlam/radityadika.jpg",
     rating: 5,
     text: "Pengalaman mendaki yang luar biasa bersama tim Akar Alam Adventure! Guide-nya sangat profesional dan sabar dalam membimbing. Peralatan yang disediakan juga lengkap dan berkualitas.",
     trip: "Pendakian Gunung Semeru"
@@ -13,7 +13,7 @@ const testimonials = [
   {
     name: "Najwa Shihab",
     instagram: "najwashihab",
-    image: "https://i.postimg.cc/Y9ZLCh25/Najwa-Shihab-1.jpg",
+    image: "AkarAlam/Najwa-Shihab-1.jpg",
     rating: 5,
     text: "Terima kasih Akar Alam Adventure atas pengalaman pendakian yang mengesankan. Tim yang sangat terorganisir dan memperhatikan keselamatan pendaki. Sangat direkomendasikan!",
     trip: "Pendakian Gunung Rinjani"
@@ -21,7 +21,7 @@ const testimonials = [
   {
     name: "Arief Muhammad",
     instagram: "ariefmuhammad",
-    image: "https://i.postimg.cc/qqKhh4zz/89941-arief-muhammad.jpgg",
+    image: "AkarAlam/89941-arief-muhammad.jpg",
     rating: 5,
     text: "Pendakian pertama saya bersama Akar Alam Adventure sangat berkesan. Guide-nya ramah dan informatif, memberikan banyak pengetahuan tentang alam dan teknik pendakian yang aman.",
     trip: "Pendakian Gunung Gede"
