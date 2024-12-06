@@ -5,8 +5,7 @@ const plans = [
   {
     name: "Basic Trek",
     price: "Rp749.000",
-    features: [
-      "Guide Pendakian selama 4 jam",
+    features: 
       "Disediakan peralatan dasar",
       "Grup kecil (maksimal 8 orang)",
       "Termasuk camilan jalur"
